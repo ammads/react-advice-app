@@ -33,7 +33,6 @@ class App extends Component {
                     </button>
                 </div>
             </div>
-
         )
     }
 }
